@@ -351,6 +351,8 @@
 		"cpp": "file.cpp",
 		"cc": "file.cpp",
 		"cxx": "file.cpp",
+		"ixx": "file.cpp",
+		"cppm": "file.cpp",
 		"d": "file.d",
 		"di": "file.d",
 		"js": "file.js",

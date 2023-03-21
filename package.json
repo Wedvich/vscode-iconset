@@ -1,43 +1,43 @@
 {
-	"name": "vscode-icontheme-nomo-dark",
-	"displayName": "Nomo Dark Icon Theme",
-	"version": "1.3.6",
-	"description": "Nomo Dark Icon Theme",
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"icon-theme",
-		"icons",
-		"customization",
-		"theme",
-		"ui"
-	],
-	"bugs": {
-		"url": "https://github.com/be5invis/vscode-iconset/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/be5invis/vscode-iconset"
-	},
-	"license": "MIT",
-	"author": {
-		"name": "Belleve Invis",
-		"email": "belleve@typeof.net",
-		"url": "https://typeof.net"
-	},
-	"publisher": "be5invis",
-	"contributes": {
-		"iconThemes": [
-			{
-				"id": "vs-nomo-dark",
-				"label": "Nomo Dark for Visual Studio Code",
-				"path": "icons.json"
-			}
-		]
-	},
-	"engines": {
-		"vscode": "^1.5.0"
-	},
-	"icon": "logo.png"
+  "name": "vscode-icontheme-nomo-dark",
+  "displayName": "Nomo Dark Icon Theme",
+  "version": "1.3.7",
+  "description": "Nomo Dark Icon Theme",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icon-theme",
+    "icons",
+    "customization",
+    "theme",
+    "ui"
+  ],
+  "bugs": {
+    "url": "https://github.com/be5invis/vscode-iconset/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/be5invis/vscode-iconset"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Belleve Invis",
+    "email": "belleve@typeof.net",
+    "url": "https://typeof.net"
+  },
+  "publisher": "be5invis",
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vs-nomo-dark",
+        "label": "Nomo Dark for Visual Studio Code",
+        "path": "icons.json"
+      }
+    ]
+  },
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "icon": "logo.png"
 }
